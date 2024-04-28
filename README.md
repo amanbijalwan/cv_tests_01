@@ -15,7 +15,10 @@ Welcome to the Computer Vision Experiments repository! This collection of projec
 
 ## Projects
 
-Intial commit will have testing projects for introductiosn.
+Intial commit will have testing projects for introduction.
+
+![image](https://github.com/amanbijalwan/cv_tests_01/assets/36789793/cd2f6527-8720-4844-9406-24391ea6544c)
+
 
 Here's a brief overview of the projects included in this repository: (Planned for later)
 
