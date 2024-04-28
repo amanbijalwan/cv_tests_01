@@ -7,9 +7,7 @@ This repository contains experiments and projects related to computer vision. Th
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
